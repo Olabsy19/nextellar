@@ -73,3 +73,6 @@ src/templates/**/coverage/
 .stryker-tmp/
 reports/
 vr-app/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
